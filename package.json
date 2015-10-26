@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is the first node.js of YOungchang",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "npm": "^2.14.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleader/node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleader/node/issues"
+  },
+  "homepage": "https://github.com/cleader/node#readme"
+}
